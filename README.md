@@ -33,7 +33,7 @@ struct ARViewContainer: UIViewRepresentable {
 }
 ```
 这种声明很简单，我们修改内容时，只需要替换就好。  
-而现在，简单的导入模型，似乎更简单了：
+而现在，导入模型，似乎更简单了：
 ```swift
 import SwiftUI
 import RealityKit
@@ -71,4 +71,6 @@ struct ContentView: View {
 5、Unity  
 这对游戏开发更友好，而简单的模型演示和行为绑定，可以使用 Reality Composer 完成。  
 6、Reality Composer Pro  
-这应该是 Reality composer 的增强版，而其中的能力在新版 Reality composer 中将很可能得到更新，要知道 swift Playground 与 XR 的配合远超 Xcode 与 XR 的配合，而 Reality composer 在 iPad 上的开发优势同样高于 Mac。
+这应该是 Reality composer 的增强版，而其中的能力在新版 Reality composer 中将很可能得到更新，要知道 swift Playground 与 XR 的配合远超 Xcode 与 XR 的配合，而 Reality composer 在 iPad 上的开发优势同样高于 Mac。  
+
+# 显而易见，对开发者友好的环境，将极大促进内容的生成。
