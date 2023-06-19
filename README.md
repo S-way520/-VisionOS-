@@ -65,7 +65,7 @@ struct ContentView: View {
 }
 ```
 3、Object Capture  
-这是一个拍照然后生成 usdz 模型的工具。普通人获取 usdz 模型的方式还有，模型制作网站https://www.vectary.com，模型下载网站https://sketchfab.com。  
+这是一个拍照然后生成 usdz 模型的工具。普通人获取 usdz 模型的方式还有，模型制作网站 https://www.vectary.com ，模型下载网站 https://sketchfab.com 。  
 4、Reality Composer  
 这也是获得模型的一种方式，需要去 Apple Store 下载此 app。Xcode 也自带此程序。  
 5、Unity  
